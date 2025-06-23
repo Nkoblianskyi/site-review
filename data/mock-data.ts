@@ -171,7 +171,7 @@ export const horizontalBanners: HorizontalBanner[] = [
     bonus: "Bet €10",
     welcomeOffer: "Get Up To €200",
     link: "https://www.betfred.com",
-    backgroundImage: "/banner-hor.jpg",
+    backgroundImage: "/banner-10.jpg",
   },
   {
     id: 1,
@@ -191,7 +191,7 @@ export const verticalSidebarBanners = [
     logo: "/betfred.webp",
     welcomeOffer: "Get Up To €200",
     link: "https://www.betfred.com",
-    backgroundImage: "/sidebar-vertical-bg.jpg",
+    backgroundImage: "/sidebar-2.jpg",
   },
   {
     id: 2,
@@ -199,6 +199,6 @@ export const verticalSidebarBanners = [
     logo: "/betfred.webp",
     welcomeOffer: "Get Up To €200",
     link: "https://www.betfred.com",
-    backgroundImage: "/sidebar-vertical-bg.jpg",
+    backgroundImage: "/sidebar-5.jpg",
   },
 ]

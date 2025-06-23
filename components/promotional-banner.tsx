@@ -17,7 +17,7 @@ export function PromotionalBanner({ banner }: PromotionalBannerProps) {
         rel="noopener noreferrer"
         className="block hover:scale-[1.01] transition-all duration-300"
       >
-        <div className="relative overflow-hidden rounded-lg shadow-medium hover:shadow-strong transition-all duration-300 h-20 sm:h-24 md:h-28 lg:h-32">
+        <div className="relative overflow-hidden rounded-lg shadow-medium hover:shadow-strong transition-all duration-300 h-24 sm:h-28 md:h-32 lg:h-48">
           {/* Background Image */}
           <Image
             src={banner.backgroundImage || "/placeholder.svg"}

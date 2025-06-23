@@ -51,7 +51,7 @@ export function VerticalPromotionalBanner({ position, site }: VerticalPromotiona
 
             {/* 3. BONUS Text */}
             <div className="flex-shrink-0 mb-6">
-              <div className="text-white text-2xl font-black leading-tight drop-shadow-lg">{site.welcomeOffer}</div>
+              <div className="text-white text-2xl font-black leading-tight drop-shadow-xl bg-black/50 rounded-sm px-1 py-1">{site.welcomeOffer}</div>
             </div>
 
             {/* 4. BUTTON - Новий дизайн */}
